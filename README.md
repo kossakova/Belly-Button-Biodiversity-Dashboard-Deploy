@@ -5,3 +5,5 @@ In this project we built a web app with dashboards that have 158 anonymous peopl
 - Top 10 Bacteria Cultures Found 
 - Belly Button Washing Frequency per Week
 - Bacteria Cultures per Sample
+
+![Belly Button Biodiversity Dashboard.png](https://github.com/kossakova/kossakova.github.io/blob/main/Belly%20Button%20Biodiversity%20Dashboard.png)
