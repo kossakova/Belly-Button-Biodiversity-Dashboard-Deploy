@@ -9,4 +9,4 @@ In this project we built a web app with dashboards that has 158 anonymous people
 - Belly Button Washing Frequency per Week
 - Bacteria Cultures per Sample
 
-![Belly Button Biodiversity Dashboard.png](https://github.com/kossakova/kossakova.github.io/blob/main/Belly%20Button%20Biodiversity%20Dashboard.png)
+![Belly Button Biodiversity Dashboard.png](https://github.com/kossakova/Belly-Button-Biodiversity-Dashboard-Deploy/blob/main/PNG/Belly%20Button%20Biodiversity%20Dashboard.png)
